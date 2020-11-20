@@ -1,0 +1,1 @@
+# -shnitser-ManageBot
